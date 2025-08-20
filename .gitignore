@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration (SDK path, API keys)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Captured outputs
+captures/
+outputs/
+release/
+
+# Misc
+*.apk
+*.ap_
+*.aab
+
+# Generated files
+.cxx/
+.externalNativeBuild/
